@@ -1,0 +1,54 @@
+p {
+    font-size: x-large;
+    padding: 15px;
+    display: inline;
+    margin-top: 10px;
+}
+
+#first {
+    margin-left: 15px;
+}
+
+#last {
+    margin-left: 20px;
+}
+
+#email {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+#male {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+#female {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+#num {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+#num1 {
+    margin-top: 5px;
+    margin-left: 220px;
+}
+
+#yes {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+#no {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.rul {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
